@@ -1,4 +1,6 @@
-### Hi there 👋
+###  ඞ
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Schlaurens&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&custom_title=GitHub%20Stats)
 
 <!--
 **Schlaurens/Schlaurens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
